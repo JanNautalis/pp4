@@ -30,5 +30,6 @@ public class Main {
                 .map(String::toUpperCase)
                 .forEach(greeter::greet);
 
+
     }
 }
